@@ -1,0 +1,23 @@
+{
+  "name": "node_mongo",
+  "version": "1.0.0",
+  "description": "The repo associated with funkyjavascript.com/node-mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NerdcoreSteve/node_mongo.git"
+  },
+  "keywords": [
+    "node",
+    "mongodb"
+  ],
+  "author": "Steve Smith",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/NerdcoreSteve/node_mongo/issues"
+  },
+  "homepage": "https://github.com/NerdcoreSteve/node_mongo#readme"
+}
