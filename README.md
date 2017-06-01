@@ -1,2 +1,2 @@
 # node_mongo
-A simple app meant to demonstrate how to use MongoDB with Node
+The repo associated with funkyjavascript.com/node-mongodb

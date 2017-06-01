@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/NerdcoreSteve/node_mongo/issues"
   },
-  "homepage": "https://github.com/NerdcoreSteve/node_mongo#readme"
+  "homepage": "https://github.com/NerdcoreSteve/node_mongo#readme",
+  "dependencies": {
+    "mongodb": "^2.2.27"
+  }
 }
